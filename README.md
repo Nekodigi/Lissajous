@@ -1,4 +1,4 @@
-# Lissajous
+# Triple Harmonograph 
 Harmonograph and other
 ![](https://github.com/Nekodigi/Images/blob/master/2020/Triple%20Harmonograph.png)
 ![](https://github.com/Nekodigi/Images/blob/master/2020/Harmonograph.png)
